@@ -1,0 +1,12 @@
+
+- './'  (indicates that this is current location)
+- '../' (Going outside)
+
+- If both the files are in same folder:
+	'./fileName'
+
+- If the file which we want to link is in another folder:
+	'./otherFolder/fileName'
+
+- If the file is outside of our folder:
+	'../function.js'
